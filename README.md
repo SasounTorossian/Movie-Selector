@@ -1,4 +1,4 @@
-# Movie-Selector ![Film Icon](film.ico)
+# Movie-Selector ![Film Icon](film.ico =100x)
 
 Couldn't decide what movie to watch, so created this little app. Randomly selects a file in the current directory and opens it up, so I don't have to make the hard decision of choosing.
 
